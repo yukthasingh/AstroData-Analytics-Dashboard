@@ -1,7 +1,7 @@
 # AstroData Analytics Dashboard
 **Python-based Data Analysis & Visualization of Space Datasets**
 
-This project **displays new concepts and skills learned** over many tutorials found online on Google, while also adding personal creative liberties. Any references used will be indicated in the section **[References]**
+This project **displays new concepts and skills learned** over many tutorials found online on Google, while also adding personal creative liberties. Any references used will be indicated in the section **[References](#references)**
 
 --
 
@@ -16,6 +16,7 @@ This project **displays new concepts and skills learned** over many tutorials fo
 8. [Project Workflow](#project-workflow)
 9. [Future Improvements](#future-improvements)
 10. [License](#license)
+11. [References](#references)
 
 --
 
