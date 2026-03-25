@@ -20,7 +20,7 @@ This project **displays new concepts and skills learned** over many tutorials fo
 
 --
 
-##**Project Overview**
+## **Project Overview**
 The AstroData Analytics Dashboard is designed to analyze space datasets inputted by the user as .csv , .json, or .xlsx files
 
 It allows users to:
