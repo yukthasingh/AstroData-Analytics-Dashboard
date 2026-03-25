@@ -3,7 +3,6 @@
 
 This project **displays new concepts and skills learned** over many tutorials found online on Google, while also adding personal creative liberties. Any references used will be indicated in the section **[References](#references)**
 
---
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -18,7 +17,6 @@ This project **displays new concepts and skills learned** over many tutorials fo
 10. [License](#license)
 11. [References](#references)
 
---
 
 ## **Project Overview**
 The AstroData Analytics Dashboard is designed to analyze space datasets inputted by the user as .csv , .json, or .xlsx files
@@ -32,7 +30,6 @@ It allows users to:
 
 This project was created for **learning purposes**, as well as a **portfolio showcase**, demonstrating advanced Python concepts not taught in a typical high school Python class.
 
---
 ## **License**
 
 MIT License
