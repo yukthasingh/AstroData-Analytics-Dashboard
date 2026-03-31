@@ -28,7 +28,7 @@ It allows users to:
 - Interactively filter and explore data
 - Produce conclusions with the aide of the integrated LLM
 
-This project was created for **learning purposes**, as well as a **portfolio showcase**, demonstrating advanced Python concepts not taught in a typical high school Python class.
+This project was created for **learning purposes**, as well as a **portfolio showcase**, demonstrating advanced Python concepts not taught in a typical high school Python class. All sources used to create this project will be refereced in [References](#references)
 
 ## **License**
 
