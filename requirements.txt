@@ -1,0 +1,19 @@
+# UI
+customtkinter
+darkdetect
+
+# Data Analysis
+pandas
+numpy
+astropy
+poliastro
+
+# Machine Learning
+scikit-learn
+pyod
+pytorch
+openai
+
+# Visualization
+matplotlib
+seaborn
